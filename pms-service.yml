@@ -1,4 +1,4 @@
-﻿vets:
+﻿doctors:
   cache:
     ttl: 60
     heap-size: 100
